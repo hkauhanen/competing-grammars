@@ -1,5 +1,7 @@
 # competing-grammars
 
+[![DOI](https://zenodo.org/badge/693166610.svg)](https://zenodo.org/badge/latestdoi/693166610)
+
 This repository contains R code required to reproduce the results contained in the following paper:
 
 > Wallenberg, J. C., Kauhanen, H., Walkden, G. & Heycock, C. (in prep.) Grammar competition and variational learning. In *The Wiley–Blackwell Companion to Diachronic Linguistics*.
