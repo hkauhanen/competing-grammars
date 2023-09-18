@@ -59,7 +59,7 @@ print(plot_CRE())
 dev.off()
 ```
 
-To reproduce the Constant Rate Effect Monte Carlo power analysis, run the following. The routines are automatically parallelized across available processor cores if the code is run on Linux or Mac; adjust `mc.cores` for the number of cores as necessary. Please note that this takes a while (on the order of 10 minutes if run on a modest laptop).
+To reproduce the Constant Rate Effect Monte Carlo power analysis, run the following. The routines are automatically parallelized across available processor cores if the code is run on Linux or Mac; adjust `mc.cores` for the number of cores as necessary. Please note that this takes a while (on the order of **2 hours** if run on a modest laptop).
 
 We also save the results of the power analysis in `out/CREresult.RData`.
 
