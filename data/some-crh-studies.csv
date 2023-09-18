@@ -1,0 +1,30 @@
+Dependent.variable,Language,Contexts,Publication,Data.from,N,C,T
+Egyptian possessive construction,Egyptian,official texts vs. letters,Gardiner2015,Table 8,1384,2,3
+\emph{wh}-complementizer in English,English,"restrictive relatives, cleft complements",Ball1994,Table 9,726,2,5
+AgrP-Grammar vs. TP-Grammar in French,French,"expletives, verbal endings",SimonenkoEtAl2019,"Supplementary material, Appendix B, Table",98405,2,31
+German final fortition (Glaser data),German,"/b/, /d/, /g/",FruehwaldEtAl2013,Table 1,461,3,4
+German final fortition (Ripuarian),German,"/b/, /d/, /g/",FruehwaldEtAl2013,"Joel Wallenberg, p.c.",337,3,4
+German final fortition (East Franconian),German,"/b/, /d/, /g/",FruehwaldEtAl2013,"Joel Wallenberg, p.c.",404,3,4
+German final fortition (Upper Saxon),German,"/b/, /d/, /g/",FruehwaldEtAl2013,"Joel Wallenberg, p.c.",499,3,4
+German final fortition (Alsatian),German,"/b/, /d/, /g/",FruehwaldEtAl2013,"Joel Wallenberg, p.c.",757,3,4
+German final fortition (High Alemannic),German,"/b/, /d/, /g/",FruehwaldEtAl2013,"Joel Wallenberg, p.c.",383,3,4
+Negative concord in English (3),English,adverbials in co-ordinate vs. non-co-ordinate contexts,Kallel2007,Tables 5–6,678,2,6
+Negative concord in English (1),English,co-ordinate vs. non-co-ordinate contexts,Kallel2007,Tables 1–2,1527,2,6
+Negative concord in English (2),English,objects in co-ordinate vs. non-co-ordinate contexts,Kallel2007,Tables 3–4,770,2,6
+"English \emph{do}-support, first 7 periods",English,"affirmative transitive adverbial & yes-no questions, negative questions, affirmative intransitive adverbial & yes-no questions, affirmative object questions, negative declaratives",Kroch1989,Table 3,5676,5,7
+"English \emph{do}-support, full dataset",English,"affirmative transitive adverbial & yes-no questions, negative questions, affirmative intransitive adverbial & yes-no questions, affirmative object questions, negative declaratives",Kroch1989,Table 3,9234,5,11
+British English \emph{have} vs.~\emph{have got} (2),English,concrete vs. abstract,Kroch1989,Table 2,529,2,3
+British English \emph{have} vs.~\emph{have got} (1),English,temporally bounded vs. permanent possession,Kroch1989,Table 1,529,2,3
+English VP headedness (2),English,"positive, negative, and quantified objects",PintzukTaylor2006,Table 11.9,10935,3,6
+English VP headedness,English,"main clause, subordinate clause",Pintzuk1995,Table 3,2220,2,15
+\emph{Haver} vs.~\emph{ter} in Portuguese,Portuguese,"possessives, auxiliaries",Wagner1996,Appendix,918,2,6
+Yiddish INFL headedness,Yiddish,"simple verb, complex verb",Santorini1993,Table 1,913,2,9
+"Spanish DOM, definite human DOs (Corpus del Español)",Spanish,\emph{matar} (class 1) vs.~\emph{tomar} (class 3),vonHeusinger2008,Tables 7–8,361,2,8
+"Spanish DOM, indefinite human DOs (Corpus del Español)",Spanish,\emph{matar} (class 1) vs.~\emph{tomar} (class 3),vonHeusinger2008,Tables 7–8,286,2,8
+"Spanish DOM, definite human DOs (Bible)",Spanish,"animacy of verb complement, three classes: 1, 2 and 3",vonHeusinger2008,Table 4,294,3,3
+"Spanish DOM, indefinite human DOs (Bible)",Spanish,"animacy of verb complement, three classes: 1, 2 and 3",vonHeusinger2008,Table 5,129,3,3
+\emph{Be like} vs.~other quotatives in AAVE (2),English,dialogue vs. inner speech,Cukor-Avila2002,Table 7,1064,2,3
+\emph{Be like} vs.~other quotatives in AAVE (1),English,first vs. third person,Cukor-Avila2002,Table 6,1064,2,3
+\emph{Say} vs.~other quotatives in AAVE (2),English,dialogue vs. inner speech,Cukor-Avila2002,Table 10,1064,2,3
+\emph{Say} vs.~other quotatives in AAVE (1),English,first vs. third person,Cukor-Avila2002,Table 9,1064,2,3
+XV vs. VX in Norwegian,Norwegian,"DP objects, pronouns, PPs",Sundquist2006,Table 2,2617,3,11
