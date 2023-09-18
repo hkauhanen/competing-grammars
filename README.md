@@ -41,6 +41,16 @@ dev.off()
 
 ## The Constant Rate Effect
 
+The median and mean sample sizes (`N`) and numbers of time points/periods (`T`) for a selection of studies of the Constant Rate Hypothesis:
+
+```r
+crh <- read.csv("../data/some-crh-studies.csv")
+median(crh$N)
+mean(crh$N)
+median(crh$T)
+mean(crh$T)
+```
+
 To produce the constant and inconstant rates figure:
 
 ```r
