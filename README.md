@@ -71,7 +71,7 @@ mc.cores <- 2
 N <- floor(exp(seq(from=log(100), to=log(100000), length.out=10)))
 
 # power analysis
-CREresult <- power_sweep(N=N, Tres=4, ES=c(0.01, 0.05, 0.1, 0.2), plevel=0.05, reps=100, mc.cores=mc.cores)
+CREresult <- power_sweep(N=N, Tres=4, ES=c(0.01, 0.05, 0.1, 0.2), plevel=0.05, reps=1000, mc.cores=mc.cores)
 save(CREresult, file="../out/CREresult.RData")
 
 # plot
